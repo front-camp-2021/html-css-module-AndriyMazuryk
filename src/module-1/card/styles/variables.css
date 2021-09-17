@@ -1,0 +1,15 @@
+@import "fonts.css";
+
+:root {
+  /* fonts */
+  --main-font: "Montserrat", sans-serif;
+
+  /* colors */
+  --card-color: #ffffff;
+  --primary-color: #2c2c2c;
+  --secondary-color: #ffffff;
+  --primary-accent-color: #6f64f8;
+  --primary-accent-hover-color: #5c53ce;
+  --secondary-accent-color: #ededed;
+  --secondary-accent-hover-color: #dbdada;
+}
